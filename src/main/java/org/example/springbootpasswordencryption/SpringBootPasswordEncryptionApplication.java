@@ -9,5 +9,4 @@ public class SpringBootPasswordEncryptionApplication {
     public static void main(String[] args) {
         SpringApplication.run(SpringBootPasswordEncryptionApplication.class, args);
     }
-
 }
